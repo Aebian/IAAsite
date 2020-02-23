@@ -36,7 +36,7 @@ public class IAAsite : Script
 		{
 			
 			Blip ProcessingZoneIAA = World.CreateBlip(new Vector3(2521.03f, -414.84f, 94.13f));
-			Function.Call(Hash.SET_BLIP_SPRITE, ProcessingZoneIAA, 564);
+			Function.Call(Hash.SET_BLIP_SPRITE, ProcessingZoneIAA, 468);
 			Function.Call(Hash.SET_BLIP_COLOUR, ProcessingZoneIAA, ProcessingZoneIAABlipColor);
 			Function.Call(Hash._0xF9113A30DE5C6670, "STRING");
 			Function.Call(Hash._ADD_TEXT_COMPONENT_STRING, "IAA Data Processing Zone");
