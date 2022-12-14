@@ -10,5 +10,5 @@ Script is fully functional. The next step will be to add peds into the building 
 
 ## Installation 
 
-Put the .cs file and the .ini file in your GTA V scripts folder. Usually something like D:\Games\Steam\steamapps\common\Grand Theft Auto V\Scripts\
+Put the .dll file and the .ini file from the releases page in your GTA V scripts folder. Usually something like D:\Games\Steam\steamapps\common\Grand Theft Auto V\Scripts\
 Start the game. 
